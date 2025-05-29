@@ -2,3 +2,8 @@ cmake-build-debug/
 hackerrank/
 visualizations/
 .idea/
+toy_project/
+shared_libraries/
+bitcodes/*.ll
+bitcodes/*.bc
+*.kexe
